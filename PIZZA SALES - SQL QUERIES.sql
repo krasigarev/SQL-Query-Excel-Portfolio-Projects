@@ -1,3 +1,4 @@
+
 SELECT * FROM pizza_sales;
 
 -- Total Revenue
